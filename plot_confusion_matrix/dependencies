@@ -1,0 +1,8 @@
+# Dependencies
+
+import pandas as pd
+from plot_confusion_matrix import plot_confusion_matrix
+from sklearn.metrics import confusion_matrix
+import numpy as np
+import matplotlib.pyplot as plt 
+%matplotlib inline
